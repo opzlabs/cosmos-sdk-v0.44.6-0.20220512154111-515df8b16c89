@@ -72,3 +72,4 @@ If you are starting a new app or a new module you can use [Starport](https://git
 
 This Cosmos-SDK project is not related to the [React-Cosmos](https://github.com/react-cosmos/react-cosmos) project (yet). Many thanks to Evan Coury and Ovidiu (@skidding) for this Github organization name. As per our agreement, this disambiguation notice will stay here.
 # cosmos-sdk-v0.44.6-0.20220512154111-515df8b16c89
+# cosmos-sdk-v0.44.6-0.20220512154111-515df8b16c89
