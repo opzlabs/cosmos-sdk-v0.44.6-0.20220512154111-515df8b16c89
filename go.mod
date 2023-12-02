@@ -1,6 +1,6 @@
 go 1.15
 
-module github.com/project-88388/cosmos-sdk-v0.44.6-0.20220512154111-515df8b16c89
+module github.com/opzlabs/cosmos-sdk-v0.44.6-0.20220512154111-515df8b16c89
 
 require (
 	github.com/99designs/keyring v1.1.6
